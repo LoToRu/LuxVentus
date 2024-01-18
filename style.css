@@ -37,7 +37,7 @@ h1{
 
 .nav-link {
     color: #262626;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;;
     font-size: 14px;
     font-style: normal;
     font-weight: 700;
@@ -87,7 +87,7 @@ h1{
 
 .first-section-content > h3 {
     color: #FFF;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-size: 12px;
     font-style: normal;
     font-weight: 700;
@@ -98,7 +98,7 @@ h1{
 
 .main-title{
     color: #FFF;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-size: 46px;
     font-style: normal;
     font-weight: 400;
