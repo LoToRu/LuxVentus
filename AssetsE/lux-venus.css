@@ -1,9 +1,8 @@
-* {
-    margin: auto;
-    padding: 0;
-    box-sizing: border-box;
+*{
     max-width: 1440px;
+    box-sizing: border-box;
     text-decoration: none;
+    background-color: #F9F9F9;
 }
 
 .vector img{
@@ -17,7 +16,7 @@
 
 .main{
     box-shadow: 0px 6px 6px 0px #0000000D;
-    background-color: #0000000D;
+    background-color: #FFFFFF;
     width: 1204px;
     height: 698px;
     margin-top: 52.5px;
@@ -26,7 +25,7 @@
 }
 
 .fashion{
-    background-image: url(AssetsE/fashion.png);
+    background-image: url(fashion.png);
     width: 1204px;
     height: 360.3px;
     border-radius: 20px;
@@ -42,7 +41,7 @@
 }
 
 .fashion a{
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins" , sans-serif;
     font-weight: 700;
     font-size: 12px;
     color: #FFFFFF;
@@ -55,12 +54,8 @@
 }
 
 .trending{
-    max-width: 1204px;
     display: flex;
-    margin-bottom: 80px;
-    margin-top: 55.04px;
-    gap: 60px;
-    background-color: ;
+
 }
 
 .latest-trends{
@@ -76,7 +71,7 @@
 
 .latest-trends h1{
     color: #BCBCBC;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins" , sans-serif;
     font-weight: 400;
     font-size: 14px;
     width: 168px;
@@ -87,7 +82,7 @@
 
 .latest-trends h2{
     color: #BCBCBC;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins" , sans-serif;
     font-weight: 400;
     font-size: 14px;
     margin-top: 37.7px;
@@ -102,7 +97,7 @@
     width: 216px;
     height: 23px;
     margin-top: 39.7px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins" , sans-serif;
     font-weight: 700;
     font-size: 14px;
     margin-right: 64px;
@@ -113,7 +108,7 @@
     margin-top: 5.82px;
     width: 1044px;
     height: 36px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins" , sans-serif;
     font-weight: 700;
     font-size: 26px;
     margin-left: 64px;
@@ -124,7 +119,7 @@
     color: #262626;
     width: 1033px;
     height: 73px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins" , sans-serif;
     font-weight: 400;
     font-size: 16px;
     margin-left: 64px;
@@ -132,16 +127,12 @@
     margin-bottom: 10px;
 }
 
-.arrow{
+.classarrow{
     margin-top: 13px;
+    margin-left: 51px;
+    margin-right: 6px;
 }
 
-.arrow-more {
-    display: flex;
-    align-items: center;
-    justify-content:left;
-    margin-left: 0;
-}
 
 .latest-trends h5{
     color: #4CE0D7;
@@ -161,19 +152,19 @@ h6{
     margin-top: 97px;
 }
 
-.button {
-    background-image: url(AssetsE/Mask\ group.png);
+.button{
+    background-image: url(Mask\ group.png);
     width: 579.02px;
     height: 278.09px;
-    background-size: auto;
-    background-repeat: no-repeat;
 }
 
 .lifestyle{
-    background-color: #0000000D;
+    background-color: #FFFFFF;
     width: 579px;
     height: 670px;
     box-shadow: 0px 6px 6px 0px #0000000D;
+    margin-left: 118px;
+    margin-top: 55px;
     border-radius: 20px;
 }
 
@@ -201,9 +192,9 @@ h6{
 
 .text1 img{
 
-    margin-top: 30px;
+    margin-top: 23.34px;
     margin-left: 26.26px;
-    margin-right: 11px;
+    margin-right: 28.07px;
 }
 
 .text1 h1{
@@ -268,22 +259,22 @@ h6{
 }
 
 .summer{
-    background-color: #0000000D;
-    width: 565px;
+    background-color: #FFFFFF;
+    width: 579px;
     height: 670px;
     box-shadow: 0px 6px 6px 0px #0000000D;
+    margin-left: 118px;
+    margin-top: 55px;
     border-radius: 20px;
 }
 
-.button1 {
-    background-image: url(AssetsE/Mask\ group\ \(1\).png);
+.button1{
+    background-image: url(Mask\ group\ \(1\).png);
     width: 565.89px;
     height: 278.09px;
-    background-size: auto;
-    background-repeat: no-repeat;
 }
 
-.button1 button {
+.button1 button{
     width: 175.44px;
     height: 36.49px;
     background-color: #262626;
@@ -295,15 +286,15 @@ h6{
 .button1 a{
     color: #FFFFFF;
     background-color: #262626;
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins" , sans-serif;
     font-weight: 700;
     font-size: 12px;
 }
 
 .text2 img{
-    margin-top: 30px;
+    margin-top: 23.34px;
     margin-left: 26.26px;
-    margin-right: 10px;
+    margin-right: 28.07px;
 }
 
 .text2{
@@ -367,230 +358,4 @@ h6{
     color: #4CE0D7;
     margin-left: 11px;
     margin-top: 45px;
-}
-
-
-.card1 {
-    margin-bottom: 48.72px;
-    width: 1204px;
-    border-radius: 20px;
-    background-color: #0000000D;
-}
-
-.card2 {
-    margin-bottom: 48.72px;
-    width: 1204px;
-    border-radius: 20px;
-    background-color: #0000000D;
-}
-
-.card3 {
-    margin-bottom: 48.72px;
-    width: 1204px;
-    border-radius: 20px;
-    background-color: #0000000D;
-}
-
-.background-pic1 {
-    background-image: url(Assets/Mask\ group.png);
-    width: 547.51px;
-    height: 367.41px;
-    background-size: auto;
-    background-repeat: no-repeat;
-}
-
-.background-pic2 {
-    background-image: url(Assets/Mask\ group\ \(1\).png);
-    width: 547.51px;
-    height: 367.41px;
-    background-size: auto;
-    background-repeat: no-repeat;
-}
-
-.background-pic3 {
-    background-image: url(Assets/Mask\ group\ \(2\).png);
-    width: 547.51px;
-    height: 367.41px;
-    background-size: auto;
-    background-repeat: no-repeat;
-}
-
-.author-pic {
-    width: 65.67px;
-    height: 50.77px;
-    margin-left: 45.95px;
-    margin-top: 25.58px;
-}
-
-.author-profile {
-    display: flex;
-    flex-direction: row;
-}
-
-.author {
-    margin-left: 16.86px;
-    margin-top: 39px;
-    font-family: Poppins, sans-serif;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 21px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #BCBCBC;
-    margin-bottom: 52px;
-}
-
-.date {
-    margin-left: 134px;
-    margin-top: 39px;
-    font-family: Poppins;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 21px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #BCBCBC;
-}
-
-.content h2 {
-    width: 543px;
-    font-family: Poppins, sans-serif;
-    font-size: 26px;
-    font-weight: 700;
-    line-height: 39px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #262626;
-    margin-left: 45.49px;
-}
-
-.content p {
-    width: 569px;
-    font-family: Poppins, sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #262626;
-    margin-left: 45.49px;
-    margin-bottom: 15px;
-}
-
-.read-more {
-    display: flex;
-    align-items: center;
-    justify-content:first baseline;
-}
-
-.read-more img {
-    width: 52px;
-    height: 39px;
-    margin-left: 36.49px;
-}
-
-.read-more p {
-    font-family: Poppins, sans-serif;
-    font-size: 12px;
-    font-weight: 700;
-    line-height: 18px;
-    letter-spacing: 0.24em;
-    text-align: left;
-    color: #4CE0D7;
-}
-
-.buttonR {
-    padding: 9.42px 52.96px 9.17px 51.86px;
-    text-decoration: none;
-    background: #262626;
-    border-radius: 40px;
-    font-family: Poppins;
-    font-size: 12px;
-    font-weight: 700;
-    line-height: 18px;
-    letter-spacing: 0em;
-    color: #FFFFFF;
-    text-align: center;
-    display: inline-block;
-    margin-top: 25.37px;
-    margin-left: 34.14px;
-}
-
-.cards-last {
-    display: flex;
-    flex-direction: column;
-}
-
-.card1,
-.card2,
-.card3 {
-    display: flex;
-}
-
-.conteiner-footer {
-    max-width: 1440px;
-    height: 308px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    border-radius: 40px, 40px, 0, 0;
-}
-
-#footer-logo {
-    max-width: 226px;
-    height: 49px;
-    margin-top: 87px;
-    margin-left: 84px;
-}
-
-#paragraph {
-    font-family: Poppins, sans-serif;
-    font-size: 26px;
-    font-weight: 700;
-    line-height: 39px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #262626;
-    margin-top: 87px;
-    margin-left: 566px;
-    width: 227px;
-    height: 42px;
-}
-
-.icons {
-    margin-top: 95px;
-    margin-right: 89px;
-}
-
-.soc-icons :first-child {
-    margin-left: 13px;
-}
-
-.icon {
-    width: 31px;
-    height: 31px;
-}
-
-hr {
-    max-width: 1267px;
-    color: #BCBCBC;
-    margin-left: 86.5px;
-    margin-bottom: 34px;
-}
-
-#copyright {
-    font-family: Poppins, sans-serif;
-    font-size: 14px;
-    font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #262626;
-    margin-left: 88px;
-    margin-bottom: 37px;
-}
-
-footer {
-    border-radius: 40px 40px 0 0;
-    background-color: #0000000D;
 }
